@@ -18,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deogharia10&show_icons=true&locale=en&layout=compact" alt="deogharia10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deogharia10&show_icons=true&locale=en" alt="deogharia10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deogharia10&" alt="deogharia10" /></p>
+
