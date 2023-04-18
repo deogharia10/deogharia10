@@ -1,4 +1,4 @@
-<a href="https://ibb.co/V2XtbrJ"><img src="https://i.ibb.co/TmzkJpY/Black-Futuristic-Software-Engineer-Business-Card.png" alt="Black-Futuristic-Software-Engineer-Business-Card" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/0sK0f6t"><img src="https://i.ibb.co/1zMC9P6/Black-Futuristic-Software-Engineer-Business-Card.png" alt="Black-Futuristic-Software-Engineer-Business-Card" border="0"></a>
 <h1 align="center">Hi 👋, I'm Abirlal Deogharia</h1>
 <h3 align="center">2nd Year Computer Science Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
