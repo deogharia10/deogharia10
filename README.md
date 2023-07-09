@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Decode DSA with C++ AND Full Stack Web Development**
 
-- ⚡ Fun fact **I am funny😂😅**
+  **I am funny😂😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
