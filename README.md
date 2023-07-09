@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogharia10&label=Profile%20views&color=0e75b6&style=flat" alt="deogharia10" /> </p>
 
-- 🌱 I’m currently learning **Decode DSA with C++**
+- 🌱 I’m currently learning **Decode DSA with C++ AND Full Stack Web Development**
 
 - ⚡ Fun fact **I am funny😂😅**
 
